@@ -1,0 +1,3 @@
+/home/wbk/Desktop/UG_Thesis/NISwGSP-master/UglyMan_NISwGSP_Stitching/UglyMan_NISwGSP_Stitching/build/CMakeFiles/edit_cache.dir
+/home/wbk/Desktop/UG_Thesis/NISwGSP-master/UglyMan_NISwGSP_Stitching/UglyMan_NISwGSP_Stitching/build/CMakeFiles/NISwGSP.dir
+/home/wbk/Desktop/UG_Thesis/NISwGSP-master/UglyMan_NISwGSP_Stitching/UglyMan_NISwGSP_Stitching/build/CMakeFiles/rebuild_cache.dir
